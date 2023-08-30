@@ -1,0 +1,112 @@
+# Blender 3.5.1 MTL File: 'enviornmentFinal.blend'
+# www.blender.org
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.041
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.067
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.068
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.167
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.172
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.173
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.174
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.215
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png
+
+newmtl Material.216
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/PIPES_2A.png

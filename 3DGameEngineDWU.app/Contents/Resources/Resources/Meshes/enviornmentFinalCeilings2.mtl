@@ -1,0 +1,92 @@
+# Blender 3.5.1 MTL File: 'enviornmentFinal.blend'
+# www.blender.org
+
+newmtl Material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png
+
+newmtl Material.032
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png
+
+newmtl Material.062
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png
+
+newmtl Material.063
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png
+
+newmtl Material.072
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png
+
+newmtl Material.165
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png
+
+newmtl Material.166
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png
+
+newmtl Material.168
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png
+
+newmtl Material.171
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LIGHT_1B.png

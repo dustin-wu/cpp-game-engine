@@ -1,0 +1,282 @@
+# Blender 3.5.1 MTL File: 'enviornmentFinal.blend'
+# www.blender.org
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.044
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.045
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.047
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.053
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/LAB_1A.png
+
+newmtl Material.058
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.060
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.075
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.076
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.077
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.078
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.094
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.104
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.105
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.109
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.110
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.111
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.125
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.126
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.128
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.129
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.157
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
+
+newmtl Material.158
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/dustinwu/Desktop/cs1950u/cs1950u-dustin-wu/Resources/Images/SUPPORT_5A.png
